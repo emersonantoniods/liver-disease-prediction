@@ -78,5 +78,4 @@ I am a Data Science student based in Madrid, focused on machine learning, analyt
 Always learning, improving, and working on new projects.
 
 #### Contact
-LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN  
-GitHub: https://github.com/SEU-USUARIO  
+LinkedIn: [https://www.linkedin.com/in/semersonantonio/]
